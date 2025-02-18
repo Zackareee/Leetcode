@@ -5,8 +5,6 @@ import math
 
 
 class Solution:
-    VOWELS = ["a", "e", "i", "o", "u"]
-
     # 38 ms | Beats 19.49%
     # 22.80 MB | Beats 98.44%
     def productExceptSelf(self, nums: List[int]) -> List[int]:
